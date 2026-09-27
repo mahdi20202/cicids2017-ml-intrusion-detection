@@ -1,0 +1,12 @@
+{
+  "binary_train_rows": 369537,
+  "binary_validation_rows": 79186,
+  "binary_test_rows": 79187,
+  "feature_count": 78,
+  "random_seed": 42,
+  "multiclass_rows": 37676,
+  "multiclass_train_rows": 30140,
+  "multiclass_test_rows": 7536,
+  "day_shift_train_rows": 394104,
+  "day_shift_test_rows": 133806
+}

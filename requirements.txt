@@ -1,0 +1,14 @@
+imbalanced-learn==0.14.2
+ipykernel
+joblib==1.6.0
+jupyter
+matplotlib==3.11.2
+nbclient
+nbformat
+numpy==2.5.3
+pandas==3.0.5
+scikit-learn==1.9.1
+scipy==1.18.1
+seaborn==0.13.2
+tqdm
+

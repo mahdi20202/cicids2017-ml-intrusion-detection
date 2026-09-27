@@ -1,0 +1,19 @@
+{
+  "all_checks_pass": true,
+  "all_reported_metrics_are_finite": true,
+  "all_score_metrics_in_unit_interval": true,
+  "binary_metrics_recompute_from_confusion_counts": {
+    "Dummy": true,
+    "Linear SVM": true,
+    "Logistic Regression": true,
+    "Logistic Regression (unweighted)": true,
+    "Random Forest": true
+  },
+  "profile_rows_reconcile": true,
+  "required_figures_present": true,
+  "sample_class_counts_match_profile": true,
+  "sample_has_no_exact_feature_label_duplicates": true,
+  "sample_has_no_missing_features": true,
+  "sample_has_only_finite_features": true,
+  "sample_row_count_matches_profile": true
+}

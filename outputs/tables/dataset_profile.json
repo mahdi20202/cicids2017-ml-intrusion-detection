@@ -1,0 +1,86 @@
+{
+  "duplicate_sample_rows_removed": 38168,
+  "files": {
+    "Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv": {
+      "invalid_rows_removed": 34,
+      "raw_rows": 225745,
+      "valid_rows": 225711
+    },
+    "Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv": {
+      "invalid_rows_removed": 371,
+      "raw_rows": 286467,
+      "valid_rows": 286096
+    },
+    "Friday-WorkingHours-Morning.pcap_ISCX.csv": {
+      "invalid_rows_removed": 122,
+      "raw_rows": 191033,
+      "valid_rows": 190911
+    },
+    "Monday-WorkingHours.pcap_ISCX.csv": {
+      "invalid_rows_removed": 437,
+      "raw_rows": 529918,
+      "valid_rows": 529481
+    },
+    "Thursday-WorkingHours-Afternoon-Infilteration.pcap_ISCX.csv": {
+      "invalid_rows_removed": 207,
+      "raw_rows": 288602,
+      "valid_rows": 288395
+    },
+    "Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv": {
+      "invalid_rows_removed": 135,
+      "raw_rows": 170366,
+      "valid_rows": 170231
+    },
+    "Tuesday-WorkingHours.pcap_ISCX.csv": {
+      "invalid_rows_removed": 264,
+      "raw_rows": 445909,
+      "valid_rows": 445645
+    },
+    "Wednesday-workingHours.pcap_ISCX.csv": {
+      "invalid_rows_removed": 1297,
+      "raw_rows": 692703,
+      "valid_rows": 691406
+    }
+  },
+  "invalid_rows_removed": 2867,
+  "rare_class_threshold": 1000,
+  "raw_label_counts": {
+    "Benign": 2273097,
+    "Bot": 1966,
+    "DDoS": 128027,
+    "DoS GoldenEye": 10293,
+    "DoS Hulk": 231073,
+    "DoS Slowhttptest": 5499,
+    "DoS slowloris": 5796,
+    "FTP - Patator": 7938,
+    "Heartbleed": 11,
+    "Infiltration": 36,
+    "PortScan": 158930,
+    "SSH - Patator": 5897,
+    "Web Attack - Brute Force": 1507,
+    "Web Attack - SQL Injection": 21,
+    "Web Attack - XSS": 652
+  },
+  "raw_rows": 2830743,
+  "sample_fraction_for_common_classes": 0.2,
+  "sample_label_counts": {
+    "Benign": 432604,
+    "Bot": 392,
+    "DDoS": 25584,
+    "DoS GoldenEye": 2031,
+    "DoS Hulk": 35102,
+    "DoS Slowhttptest": 1052,
+    "DoS slowloris": 1157,
+    "FTP - Patator": 1242,
+    "Heartbleed": 11,
+    "Infiltration": 36,
+    "PortScan": 26944,
+    "SSH - Patator": 751,
+    "Web Attack - Brute Force": 331,
+    "Web Attack - SQL Injection": 21,
+    "Web Attack - XSS": 652
+  },
+  "sample_rows_after_deduplication": 527910,
+  "sample_rows_before_deduplication": 566078,
+  "valid_rows": 2827876
+}
